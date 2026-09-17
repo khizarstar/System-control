@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.SkyHostingControl" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#1A1F2E</item>
+        <item name="colorPrimaryDark">#0D1017</item>
+        <item name="colorAccent">#5865F2</item>
+        <item name="android:windowBackground">#0D1017</item>
+    </style>
+</resources>
